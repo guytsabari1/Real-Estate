@@ -1,0 +1,29 @@
+
+.property-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    border-width: 3px;
+    color: black;
+    border-radius: 15px;
+    background-color: white ;
+    padding: 10px;
+    height: 400px;
+    width: 350px;
+    margin: 50px;
+}
+
+.images{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    
+}
+
+.add-to-fav-btn{
+    height: 45px;
+    width: 150px;
+    margin-top: 10px;
+    
+}

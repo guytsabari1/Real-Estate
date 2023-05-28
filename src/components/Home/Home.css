@@ -1,0 +1,70 @@
+#root{
+    height: 100vh;
+    width: 100vw;
+}
+
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+#pic-title{
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+}
+
+#main-pic{
+    height: 600px;
+    width: 50%;
+}
+
+#titles{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+#main-title{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+#main-subtitle{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 0 50px 50px 50px;
+    
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    margin: 100px 100px 50px 100px;
+    text-align: center;
+
+}
+
+h2{
+    color: white;
+    font-size: 30px;
+    margin: 0 350px 200px 350px;
+    text-align: center;
+}
+
+
+#logo{
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
